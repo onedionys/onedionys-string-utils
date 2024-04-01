@@ -1,6 +1,6 @@
 {
   "name": "onedionys-string-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "One Dionys (String Utils) - Provides useful functions for manipulating strings and can be used in typescript/javascript.",
   "main": "index.ts",
   "scripts": {
